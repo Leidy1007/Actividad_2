@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "matricula": "1042DC",
+    "modelo": "2016"
+  },
+   {
+    "id": 2,
+    "nombre": "Ruth",
+    "apellido": "Cuadrado",
+     "identificacion": "1066751922",
+      "direccion": "Garzones",
+      "edad":21,
+      "id_alimentadora": 2
+    
+  },
+     {
+    "id": 3,
+    "nombre": "Yina",
+    "apellido": "Pérez",
+     "identificacion": "1022752933",
+      "direccion": "Mogambo",
+      "edad":18,
+      "id_alimentadora": 1
+    
+  }
+]
